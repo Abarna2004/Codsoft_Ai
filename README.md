@@ -14,49 +14,10 @@ The AI automatically makes its move.
 The game continues until one of the players wins or all cells are filled (draw).
 ### Output
 
-Welcome to Tic Tac Toe!
-  |   |  
----------
-  |   |  
----------
-  |   |  
----------
-Player X, enter row and column (e.g., 0 1): 1 1
-  |   |  
----------
-  | X |  
----------
-  |   |  
----------
-Computer's turn...
-  |   |  
----------
-  | X | O
----------
-  |   |  
----------
-Player X, enter row and column (e.g., 0 1): 0 1
-  | X |  
----------
-  | X | O
----------
-  |   |  
----------
-Computer's turn...
-  | X | O
----------
-  | X | O
----------
-  |   |  
----------
-Player X, enter row and column (e.g., 0 1): 2 1
-  | X | O
----------
-  | X | O
----------
-  | X |  
----------
-Player X wins!
+![image](https://github.com/user-attachments/assets/84b63256-ec46-4b22-9c8c-dd5940cf68b5)
+
+![image](https://github.com/user-attachments/assets/80947371-fb4c-45e2-b85e-90cea139f94c)
+
 ### 👁️ Face Recognition
 ### Overview
 The Face Recognition system detects and recognizes faces from an image using OpenCV and the face_recognition library. 🤳
