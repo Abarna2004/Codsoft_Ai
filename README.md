@@ -60,8 +60,10 @@ Play against the AI or another player.
 Install the required libraries (opencv-python, face_recognition).
 Provide an image for face detection and recognition.
 ### Running Tamil Movie Recommendation:
+
 Load your Tamil movies dataset (Tamil_movies_dataset.csv).
 Enter your preferences, and the system will recommend matching movies.
+
 ---
 ### 📝 License
 This project is open-source and available under the MIT License.
