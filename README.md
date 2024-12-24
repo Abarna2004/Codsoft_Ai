@@ -33,6 +33,7 @@ opencv-python: For image processing and drawing.
 face_recognition: For detecting and recognizing faces.
 ### Sample Output
 When the code is executed, you should see an image with rectangles drawn around detected faces and their names displayed if recognized.
+
 ---
 
 ### 🎬 Tamil Movie Recommendation System
