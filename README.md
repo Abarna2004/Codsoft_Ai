@@ -57,7 +57,6 @@ Player X, enter row and column (e.g., 0 1): 2 1
   | X |  
 ---------
 Player X wins!
-
 ### 👁️ Face Recognition
 ### Overview
 The Face Recognition system detects and recognizes faces from an image using OpenCV and the face_recognition library. 🤳
