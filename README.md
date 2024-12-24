@@ -13,6 +13,7 @@ The user enters their move (row and column).
 The AI automatically makes its move.
 The game continues until one of the players wins or all cells are filled (draw).
 ### Output
+
 Welcome to Tic Tac Toe!
   |   |  
 ---------
